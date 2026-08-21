@@ -1,18 +1,14 @@
 # alena 
+# alena
 
-genai engineer · full-stack · chennai
+python & linux · into production/pipeline tooling
 
----
+building small tools that solve real problems.
 
-building ai systems that actually work.
+## stack
+`python` `linux` `fastapi` `langchain` `mcp servers` `bash`
 
----
 
-**stack**
-
-`python` `fastapi` `langchain` `langgraph` `rag` `mcp servers` `yolov8` `pytorch` `neo4j` `chromadb` `react` `node.js` `typescript` `docker`
-
----
 
 **links**
 
